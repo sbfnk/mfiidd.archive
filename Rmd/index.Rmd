@@ -6,6 +6,10 @@ output:
     toc: false
 ---
 
+<div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 16px 20px; margin-bottom: 24px; font-size: 1.1em;">
+<strong>This course has been archived.</strong> The up-to-date version is available at <a href="https://sbfnk.github.io/mfiidd/">sbfnk.github.io/mfiidd</a>. This page is kept for reference only and is no longer maintained.
+</div>
+
 ![](external_fig/import/lshtm_cmmid.png)
 
 Lunch options: [Local map](http://goo.gl/XEPxch)
