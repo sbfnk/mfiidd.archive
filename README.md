@@ -1,7 +1,7 @@
 
 # Model fitting and inference for infectious disease dynamics
 
-> **This course has been archived.** The up-to-date version is available at [sbfnk.github.io/mfiidd](https://sbfnk.github.io/mfiidd/). This repository is kept for reference only and is no longer maintained.
+> **This course has been archived.** The up-to-date version is available at [mfiidd.github.io/mfiidd](https://mfiidd.github.io/mfiidd/). This repository is kept for reference only and is no longer maintained.
 
 This repository contains the material to create the mfiidd course page.
 
